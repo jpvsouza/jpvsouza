@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou João Paulo Veloso, moro em Belo Horizonte - MG
 - 👀 Estou interessado em aprimorar os meus conhecimentos para ingressar na carreira de desenvolvedor
-- 🌱 Atualmente estou fazendo um curso de desenvolvedor web na Trybe
+- 🌱 Atualmente estou fazendo um curso de desenvolvedor web na Trybe, em janeiro de 2022 concluí o módulo de frontend e vamos iniciar o backend
 - 💞️ Estou interessado em ingressar em algum projeto para melhorar o que conheço e agregar valor
 - 📫 Você pode entrar em contato comigo por telefone 5531996740839 ou email joaopaulo.velosodesouza@gmail.com
 
