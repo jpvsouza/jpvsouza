@@ -4,12 +4,6 @@
 - 💞️ Estou interessado em ingressar em algum projeto para melhorar o que conheço e agregar valor
 - 📫 Você pode entrar em contato comigo por email joaopaulo.velosodesouza@gmail.com
 
-<div align="center">
-  <a href=https://www.linkedin.com/in/joaopauloveloso/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpvsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvsouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 ##
 
 <div style="display: inline_block" align="center"><br>
