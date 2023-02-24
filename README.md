@@ -1,7 +1,6 @@
 - 👋 Olá, eu sou João Paulo Veloso, moro em Belo Horizonte - MG
 - 👀 Estou interessado em aprimorar os meus conhecimentos para ingressar na carreira de desenvolvedor
-- 🌱 Atualmente estou fazendo um curso de desenvolvimento fullstack na Trybe, em janeiro de 2022 concluí o módulo de frontend e estou terminando o backend agora, junto com a segunda metade do curso
-- 💞️ Estou interessado em ingressar em algum projeto para melhorar o que conheço e agregar valor
+- 🌱 Sou formado em Sistemas de Informação e acabei de me formar no curso de desenvolvimento Web Fullstack da Trybe
 - 📫 Você pode entrar em contato comigo por email joaopaulo.velosodesouza@gmail.com
 
 ##
@@ -15,6 +14,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
 
 </div>
 
